@@ -1,0 +1,12 @@
+{
+    "name": "bench-npm-which",
+    "version": "1.0.0",
+    "main": "bench.js",
+    "repository": "https://github.com/HitkoDev/bench-npm-which.git",
+    "author": "HitkoDev <development@hitko.si>",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "which": "^1.3.1"
+    }
+}

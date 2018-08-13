@@ -1,0 +1,18 @@
+pipeline:
+  test-10:
+    image: node:10
+    commands:
+      - yarn
+      - ./run.sh
+
+  test-8:
+    image: node:8
+    commands:
+      - yarn
+      - ./run.sh
+
+  test-6:
+    image: node:6
+    commands:
+      - yarn
+      - ./run.sh
